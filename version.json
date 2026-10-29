@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "0.7.0",
-  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/pomi-releases/releases/download/v0.7.0/POMi-v0.7.0.apk",
-  "changelog": "Update POMi UI",
+  "versionCode": 5,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/Goncalo-Mota-Termoave/pomi-releases/releases/download/v0.8.0/POMi-v0.8.0.apk",
+  "changelog": "Notificações push\nDespesas\nChat",
   "forceUpdate": false
 }
